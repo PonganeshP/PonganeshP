@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PonganeshP
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Problem Solving Algos
-- 💞️ Aspiration: Software Developer
+- 👀 I’m working in the areas of Web Application Development
+- 🌱 I’m currently learning Problem Solving - DSA and Algorithms
+- 💞️ Aspiration: SDE
 - 📫 Reach out to me abcdpons@gmail.com
 
 <!---
