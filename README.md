@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PonganeshP
 - 👀 I’m working in the areas of Web Application Development
-- 🌱 I’m currently learning Problem Solving - DSA and Algorithms
-- 💞️ Aspiration: SDE
+- 🌱 I’m currently learning System Designs and .NET C# Framework
+- 💞️ Aspiration: Software Engineer | Problem Solver
 - 📫 Reach out to me abcdpons@gmail.com
 
 <!---
