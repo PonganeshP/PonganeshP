@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PonganeshP
-- 👀 I’m working in the areas of Web Application Development
-- 🌱 I’m currently learning System Designs and .NET C# Framework
-- 💞️ Aspiration: Software Engineer | Problem Solver
-- 📫 Reach out to me abcdpons@gmail.com
+- 👋 Hi, I’m Ponganesh P.
+- 👀 I'm currently employed as a Software Engineer in one of the most fulfilling work environments I've experienced.
+- 🌱 Currently learning to write some Advanced SQL queries along with C# .NET Framework with some system designs.
+- 🤠 As always - trying to become a better Problem Solver in both Personal & Professional life.
+- 👣 I'm that someone who embraces a harmonious lifestyle.
+- 📧 Reach out to me abcdpons@gmail.com
 
 <!---
 PonganeshP/PonganeshP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
