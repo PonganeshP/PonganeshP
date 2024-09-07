@@ -1,13 +1,9 @@
 ---------------------------------------------------------------------------------------------------------------------
 👋 Hi, I’m Ponganesh P.
-
-👀 I'm a Software Engineer in one of the most fulfilling work environments I've experienced.
-
-🌱 Currently learning to write some Advanced SQL queries along with C# .NET Framework with some system designs.
-
-🤠 As always - I am trying to become a better Problem Solver in both my Personal & Professional life.
-
-👣 I'm someone who embraces a harmonious lifestyle.
+👀 Software engineer in one of the most fulfilling work environments I've experienced.
+🌱 Becoming a ninja developer.
+🤠 Better problem solver in both personal & profession.
+👣 Someone who embraces harmonious lifestyle.
 
 📧 Reach out to me at abcdpons@gmail.com
 -----------------------------------------------------------------------------------------------------------------------
