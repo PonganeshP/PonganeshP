@@ -1,8 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------
 👋 Hi, I’m Ponganesh P.
-👀 Software engineer in one of the most fulfilling work environments I've experienced.
-🌱 Becoming a ninja developer.
-🤠 Better problem solver in both personal & profession.
+🤠 Trying hard to be a better problem solver.
 👣 Someone who embraces harmonious lifestyle.
 
 📧 Reach out to me at abcdpons@gmail.com
